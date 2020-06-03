@@ -1,0 +1,3 @@
+[submodule "vendor/substrate"]
+	path = vendor/substrate
+	url = https://github.com/paritytech/substrate
